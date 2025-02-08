@@ -1,1 +1,1 @@
-# simon-game-using-Jquery-
+# simon game using Jquery
